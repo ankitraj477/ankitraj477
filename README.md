@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitraj477
 - 👀 I’m interested in cricket,songs,coding and bing watching
-- 🌱 I’m currently learning c programming language
+- 🌱proficient in c and c++
 - 📫 How to reach me :- sammy.20307@gmail.com
 
 <!---
